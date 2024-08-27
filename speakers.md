@@ -1,7 +1,7 @@
 ## Keynotes
 
 * **Alessandra Carbone**, *Sorbonne University* - Professor in Computer Science at Sorbonne Université - Head of the Laboratory of Computational and Quantitative Biology (LCQB) <br>
-Title: Deep Learning in protein-protein interactions <br>
+<ins>Title:</ins> Deep Learning in protein-protein interactions <br>
 Abstract : Most proteins perform their biological functions by interacting with other molecules or themselves.
 Identifying protein-protein interactions (PPI) therefore provides biological information on protein functions, disease prevalence and the development of therapies.
 However, finding the interacting protein pairs using experimental approaches is time-consuming and labor-intensive due to the diversity of proteins.
