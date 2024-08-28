@@ -40,7 +40,7 @@ All deadlines are 23:59 AoE (UTC-12)
 * **Anthony Countant**, *HephIA* - Trajectoire d'une Startup Deep Tech en IA : De l'IA exploratoire pour les industries à l'IA générative pour le droit
 * **Harley Davis**, *Athena Decision Systems* - AI Agent Precision: Maximizing decision accuracy with business rules integration
 
-More informations about the speakers [here](https://github.com/zoechevallier1/jdse-2024/blob/kdradjat-patch-1/speakers.md).
+More informations about the speakers [here](https://zoechevallier1.github.io/jdse-2024/speakers.md).
 
 ## Organization Committee
 ### Junior Committee
