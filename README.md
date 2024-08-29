@@ -1,4 +1,4 @@
-# Junior Conference on Data Sciences and Engineering 2024
+
 
 [**Description**](#description)
 | [**Important Dates**](#important-dates)
