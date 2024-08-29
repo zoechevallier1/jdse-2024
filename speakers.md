@@ -27,5 +27,8 @@ Its projects aim to understand the principles of evolution and co-evolution of m
 
 * **Harley Davis**, *Athena Decision Systems* - <br>
 <ins>Title</ins>: AI Agent Precision: Maximizing decision accuracy with business rules integration <br>
-<ins>Abstract</ins>: <br/>
-<ins>Biography</ins>: 
+<ins>Abstract</ins>: Aujourd'hui, l'engouement autour de l'IA générative et des LLMs est immense. Certains experts pensent même que cette technologie marque les premiers pas vers l'AGI. L'IA générative produit effectivement des résultats impressionnants, tant sur le plan linguistique que visuel. Cependant, pour que cette technologie soit déployée efficacement en entreprise, il reste encore des défis à relever pour la rendre fiable, explicable et précise dans les décisions critiques.
+
+C'est pourquoi une approche hybride, combinant différentes technologies de l'IA, dont des méthodes symboliques, est essentielle. Ces dernières permettent d'obtenir des résultats précis, répétables et explicables, bien que cela ait un coût. Lors de cette présentation, nous démontrerons clairement les enjeux pour les entreprises, les défis et les faiblesses technologiques de l'IA générative, ainsi que le potentiel d'une approche hybride. <br/>
+<ins>Biography</ins>:Harley est le fondateur et PDG d'Athena Decision Systems, une entreprise française spécialisée dans la création de solutions d'IA hybride pour les entreprises. Il a consacré toute sa carrière à l'IA, depuis ses études au MIT, où il a obtenu un double diplôme en IA et en informatique, jusqu'à son travail en tant que chercheur en IA chez Xerox PARC.
+Après plusieurs années chez ILOG, une société française leader en IA, et après le rachat d'ILOG par IBM, Harley a été nommé responsable de la R&D d'IBM en France, où il a supervisé le développement des logiciels de gestion des décisions intelligentes à l'échelle mondiale. Il a également créé le laboratoire d'IA d'IBM sur le plateau de Saclay et a lancé des initiatives de recherche collaborative avec l'Université Paris-Saclay. Inspiré par les possibilités offertes par ces recherches, Harley a fondé Athena Decision Systems début 2024. 
