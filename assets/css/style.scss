@@ -14,12 +14,14 @@
 	background: #354AAE;
 	height: 45px;
 	padding-left: 18px;
-	position: absolute;
+	
+	
 }
 #menu ul, #menu li {
 	margin: 0 auto;
 	padding: 0;
-	list-style: none
+	list-style: none;
+	position: absolute;
 }
 #menu ul {
 	width: 100%;
