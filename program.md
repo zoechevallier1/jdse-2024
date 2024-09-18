@@ -11,7 +11,7 @@
     * Statistical and Geometrical properties of regularized Kernel Kullback-Leibler divergence, *Clémentine Chazal*
 * 12:00 - 13:00 Lunch break
 * 13:00 - 14:00 Keynotes:
-    * **Trajectoire d’une Startup Deep Tech en IA : De l’IA Exploratoire pour les Industries à l’IA Générative pour le Droit**, *Anthony Coutant*, Cofounder | Co-CEO | CTO HephIA
+    * **Trajectoire d’une Startup Deep Tech en IA : De l’IA Exploratoire pour les Industries à l’IA Générative pour le Droit**, *Anthony Coutant*, Cofounder/Co-CEO, CTO HephIA
     * **AI Agent Precision: Maximizing Decision Accuracy with Business Rules Integration**, *Harley Davis*, Athena Decision Systems
 * 14:00 - 15:00 Students presentations:
     * Label Leakage from Regression Models Gradients in Federated Learning, *Jean Leprovost, Pierre Jobic, Aurélien Mayoue*
