@@ -1,7 +1,7 @@
 # Program
 
 ## Thursday 26th September
-* 08:45 - 09:15 Coffe & Registration
+* 08:45 - 09:15 Coffee & Registration
 * 09:15 - 09:30 Opening speech
 * 09:30 - 10:30 Keynote: **Deep Learning in protein-protein interactions**, *Alessandra Carbone*, Professor, Sorbonne Université
 * 10:30 - 11:00 Coffee break
