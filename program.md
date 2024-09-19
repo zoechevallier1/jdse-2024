@@ -27,6 +27,7 @@
     * Finite-sample performance of the maximum likelihood estimator in logistic regression, *Hugo Chardon*
     * Deep multivariate autoencoder for capturing complexity in Brain Structure and Behaviour Relationships, *Gabriela P. Gomez Jimenez*
     * Constituting a dataset for applying Natural Language Inference to Chinese Clinical Trials: possible approaches and challenges, *Mathilde Aguiar, Ying Lai, Pierre Zweigenbaum, Nona Naderi*
+    * Named Entity Extraction in Connection Lens Based on Large Language Models, *Minh Hoang Duong, Ioana Manolescu*
 
 
 ## Friday 27th September
