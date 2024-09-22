@@ -32,7 +32,7 @@
 
 ## Friday 27th September
 * 09:00 - 9:15 Coffee viennoiseries & Registration
-* 9:15 - 10h15 Keynote: *Ioana Manolescu*, Senior Researcher, INRIA
+* 9:15 - 10h15 Keynote: **Data and AI techniques for Fact-checking and Investigative journalism**, *Ioana Manolescu*, Senior Researcher, INRIA
 * 10:15 - 10:45 Coffee break
 * 10:45 - 11:45 Student presentations:
     * A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning, *Amadou Siaka Sangare, Nicolas Dunou, Jhony H. Giraldo, Fragkiskos D. Malliara*
