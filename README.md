@@ -30,6 +30,7 @@ All deadlines are 23:59 AoE (UTC-12)
 * **Alessandra Carbone**, *Sorbonne University* - Deep Learning in protein-protein interactions
 * **Anthony Countant**, *HephIA* - Trajectoire d'une Startup Deep Tech en IA : De l'IA exploratoire pour les industries à l'IA générative pour le droit
 * **Harley Davis**, *Athena Decision Systems* - AI Agent Precision: Maximizing decision accuracy with business rules integration
+* **Ioana Manolescu**, *Inria* - Data and IA techniques for Fact-checking and Investigative journalism
 
 More informations about the speakers [here](https://zoechevallier1.github.io/jdse-2024/speakers).
 
