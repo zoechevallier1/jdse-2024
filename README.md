@@ -1,11 +1,3 @@
- # The 9th Junior Conference on Data Sciences and Engineering
-
-[**Description**](#description)
-| [**Important Dates**](#important-dates)
-| [**Keynotes**](#keynotes)
-| [**Organization Committee**](#organization-committee)
-
-
 ## Description
 The 9th edition of the Junior Conference on Data Science and Engineering (JDSE) is a great opportunity for **master students** and
 **young researchers** to **present recent research** results. Receiving feedback and sharing your initial research results presents
