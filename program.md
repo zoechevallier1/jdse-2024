@@ -9,7 +9,7 @@ You can find the slides used during the presentations on this link : [https://dr
 * 10:30 - 11:00 Coffee break
 * 11:00 - 12:00 Student presentations
     * A stock region predictor for path clearing with object manipulation, *Kai Zhang, Eric Lucet, Julien Alexandre Dit Sandretto, David Filliat*
-    * [PDF](https://zoechevallier1.github.io/jdse-2024/Articles/Submission_19.pdf) Highlighting hurdles to benchmarking machine learning methods, *Célestin Eve, Thomas Moreau, Gael Varoquaux*
+    * [[PDF]](https://zoechevallier1.github.io/jdse-2024/Articles/Submission_19.pdf) Highlighting hurdles to benchmarking machine learning methods, *Célestin Eve, Thomas Moreau, Gael Varoquaux*
     * Statistical and Geometrical properties of regularized Kernel Kullback-Leibler divergence, *Clémentine Chazal*
 * 12:00 - 13:00 Lunch break
 * 13:00 - 14:00 Keynotes:
