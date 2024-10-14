@@ -1,5 +1,7 @@
 # Program
 
+You can find the slides used during the presentations on this link : [https://drive.google.com/drive/folders/1RuHKvWU1VlZR-C2ewCzA_AV3XDZlfgzw?usp=sharing](https://drive.google.com/drive/folders/1RuHKvWU1VlZR-C2ewCzA_AV3XDZlfgzw?usp=sharing)
+
 ## Thursday 26th September
 * 08:45 - 09:15 Coffee & Registration
 * 09:15 - 09:30 Opening speech
