@@ -18,7 +18,7 @@ You can find the slides used during the presentations on this link : [https://dr
 * 14:00 - 15:00 Students presentations:
     * [[PDF]](https://zoechevallier1.github.io/jdse-2024/Articles/Submission_9.pdf) Label Leakage from Regression Models Gradients in Federated Learning, *Jean Leprovost, Pierre Jobic, Aurélien Mayoue*
     * [[PDF]](https://zoechevallier1.github.io/jdse-2024/Articles/Submission_14.pdf) A New Efficient Algorithm for Exact Multiple Change Point Detection in Time Series, *Simon Querné, Vincent Runge*
-    * Semantic-Based Dataset Discovery in Data Lakes, *KAID Nassima*
+    * [[PDF]](https://zoechevallier1.github.io/jdse-2024/Articles/Semantic-based Dataset Discovery in Data Lakes.pdf) Semantic-Based Dataset Discovery in Data Lakes, *KAID Nassima*  
 * 15:00 - 16:30 Student poster session (pitch and poster):
     * [[PDF]](https://zoechevallier1.github.io/jdse-2024/Articles/Submission_2.pdf) Efficient Vertical Federated Learning: Leveraging Foundation Models to Improve Communication, *Xavier Desprez, Oudom Kem*
     * [[PDF]](https://zoechevallier1.github.io/jdse-2024/Articles/Submission_3.pdf) ML-DOA estimation using a sparse representation of array covariance, *Thomas Aussaguès, Anne Ferréol, Alice Delmer, Pascal Larzabal*
